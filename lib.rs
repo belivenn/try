@@ -92,7 +92,7 @@ pub struct FeedPet<'info>{
     pub system_program: Program<'info, System>,
     
 }
-/*Chec 1 account *\
+
 /* #[derive(Accounts)]
 pub struct CheckForUnfed<'info>{
     #[account(mut)]
